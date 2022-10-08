@@ -1,0 +1,25 @@
+#container {
+  text-align: center;
+
+  width: 50%;
+  margin-top: 70px;
+  margin-left: 400px;
+  border: solid;
+  border-radius: 10px;
+  height: 120px;
+  font-size: 50px;
+}
+#input_bar {
+  width: 50%;
+  position: relative;
+  top: 25%;
+  right: 30%;
+  height: 20px;
+}
+#list {
+  text-align: left;
+  height: auto;
+  padding-top: 25px;
+  font-size: 25px;
+  margin-right: 460px;
+}
